@@ -1,6 +1,65 @@
 # Airbnb-data-Exploratory-Data-Analysis || Power BI Dashboard
 
 
+![image](https://github.com/user-attachments/assets/8120e285-97b4-4f16-85da-4dfaee23d65a)
+📌 Project Overview
+This project performs clustering on Netflix movies and TV shows using machine learning techniques. The dataset consists of various features such as title, genre, release year, cast, and ratings, which are used to group similar content together.
+
+📂 Dataset
+The dataset used for this project is Netflix Movies and TV Shows, which contains information on various titles available on Netflix, including:
+
+Title
+Type (Movie/TV Show)
+Genre
+Release Year
+Cast
+Country of Origin
+Rating
+Duration
+Description
+🔄 Project Workflow
+Data Preprocessing:
+
+Cleaning and handling missing values.
+Feature engineering.
+Converting categorical data into numerical representations.
+📊 Exploratory Data Analysis (EDA):
+
+Understanding the distribution of movies and TV shows.
+Visualizing trends over the years.
+Identifying popular genres.
+🧩 Clustering Approach:
+
+Using techniques such as K-Means, DBSCAN, or Hierarchical Clustering.
+Applying feature selection and dimensionality reduction (e.g., PCA, TF-IDF for text-based features).
+📈 Model Evaluation:
+
+Determining the optimal number of clusters.
+Evaluating cluster quality using silhouette score and other metrics.
+
+🛠 Installation
+1.Install dependencies:
+pip install -r requirements.txt
+2.Run the Jupyter Notebook:
+jupyter notebook netflix-movies-and-tv-shows-ml-project.ipynb
+📦 Dependencies
+Python 3.x
+Pandas
+NumPy
+Scikit-learn
+Matplotlib
+Seaborn
+NLTK (for text preprocessing)
+Jupyter Notebook
+📊 Results
+![image](https://github.com/user-attachments/assets/2b38bc03-c01b-40e8-b203-c9bf0ef3534e)
+![image](https://github.com/user-attachments/assets/ab668f68-b21f-460c-85a7-2670677574fd)
+![image](https://github.com/user-attachments/assets/4a1c7a5a-7401-40dd-ba14-5b674cc37ab8)
+🚀 Future Improvements
+Incorporate deep learning models for better clustering.
+Improve recommendations based on user preferences.
+Integrate an interactive dashboard for visualization
+
 
 ## Project Overview
 This project conducts an exploratory data analysis (EDA) on Airbnb NYC 2019 dataset. It aims to uncover insights about Airbnb listings in New York City, including preferences in room types, neighborhood popularity, pricing trends, and host behaviors.
