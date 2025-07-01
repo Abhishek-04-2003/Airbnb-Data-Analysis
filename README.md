@@ -1,7 +1,8 @@
 # Airbnb-data-Exploratory-Data-Analysis || Power BI Dashboard
 
 
-![image](https://github.com/user-attachments/assets/8120e285-97b4-4f16-85da-4dfaee23d65a)
+![Uploading Airbnb.jpg…]()
+
 📌 Project Overview
 This project performs clustering on Netflix movies and TV shows using machine learning techniques. The dataset consists of various features such as title, genre, release year, cast, and ratings, which are used to group similar content together.
 
